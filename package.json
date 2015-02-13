@@ -18,6 +18,7 @@
   "homepage": "https://github.com/DBarthe/nodeprof",
   "dependencies": {
     "read": "^1.0.5",
-    "request": "^2.53.0"
+    "request": "^2.53.0",
+    "jsdom": "~3.1.1"
   }
 }
